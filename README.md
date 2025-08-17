@@ -86,6 +86,13 @@ This dashboard enabled AtliQ Hardware to:
 ![Dashboard Preview](Images/dashboard_preview.png)
 
 
+---
+
+##  Credits
+
+Developed as part of the **Excel: Mother of BI** course by Codebasics  
+Business scenario provided by **AtliQ Hardware**
+
 
 ---
 
